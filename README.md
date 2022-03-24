@@ -1,5 +1,7 @@
 # Nodes
-Nodes are collected and made by York
+Hello and welcome to the Internet.
+
+We take care of your secure all the time, so here are our tunnels to keep you safe when you are surfing online.
 # How to use
 ## V2Ray Client(V2RayN, QV2Ray)
 Import one of these links to your client
