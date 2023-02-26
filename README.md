@@ -18,4 +18,4 @@ May take a few seconds to sync.
 ## Clash
 We will support soon.
 # Follow us
-[Telegram](https://t.me/yorknodes)
+[Telegram](https://t.me/york_zone)
